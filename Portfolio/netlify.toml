@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/nathan-portfolio.html"
+  status = 200
